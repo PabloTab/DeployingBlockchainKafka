@@ -1,3 +1,3 @@
 # SunriseRAW
 
-Implementation of Blockchain technology with Kafka in Docker container's
+Implementation of Blockchain technology in Kafka with Docker container's
